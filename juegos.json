@@ -29,4 +29,19 @@
     "version": "1.1.0",
     "type": "iso"
   },
+  {
+    "id": "test_notification",
+    "title": "Juego de prueba (notificación)",
+    "coverUrl": "",
+    "zipUrl": "",
+    "zipPassword": "",
+    "savedataUrl": "",
+    "texturesUrl": "",
+    "texturesPassword": "",
+    "folderName": "Test",
+    "description": "Juego de prueba para verificar notificaciones.",
+    "size": "0 MB",
+    "version": "1.0.0",
+    "type": "folder"
+  }
 ]
