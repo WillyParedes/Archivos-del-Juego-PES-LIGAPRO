@@ -58,5 +58,20 @@
     "size": "0 MB",
     "version": "1.0.0",
     "type": "folder"
+  },
+  {
+    "id": "notificacion_test_2025",
+    "title": "🎮 NUEVO JUEGO DISPONIBLE",
+    "coverUrl": "",
+    "zipUrl": "",
+    "zipPassword": "",
+    "savedataUrl": "",
+    "texturesUrl": "",
+    "texturesPassword": "",
+    "folderName": "TestNoti",
+    "description": "Este es un juego nuevo para probar notificaciones.",
+    "size": "0 MB",
+    "version": "1.0.0",
+    "type": "folder"
   }
 ]
