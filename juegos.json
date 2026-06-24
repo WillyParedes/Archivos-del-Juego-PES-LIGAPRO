@@ -11,7 +11,7 @@
     "folderName": "PES LIGA PRO de SUPER DUPER Gameplays",
     "description": "Mod de fútbol especializado en la LigaPro de Ecuador .",
     "size": "769 MB",
-    "version": "1.0.1",
+    "version": "1.0.2",
     "type": "folder"
   },
   {
@@ -30,16 +30,31 @@
     "type": "iso"
   },
   {
-    "id": "nuevo_juego",
-    "title": "NUEVO JUEGO DISPONIBLE",
+    "id": "nuevo_juego_1",
+    "title": "JUEGO 1 - NOTIFICACIÓN",
     "coverUrl": "",
     "zipUrl": "",
     "zipPassword": "",
     "savedataUrl": "",
     "texturesUrl": "",
     "texturesPassword": "",
-    "folderName": "Nuevo",
-    "description": "Este es un juego nuevo para probar notificaciones.",
+    "folderName": "Juego1",
+    "description": "Notificación 1",
+    "size": "0 MB",
+    "version": "1.0.0",
+    "type": "folder"
+  },
+  {
+    "id": "nuevo_juego_2",
+    "title": "JUEGO 2 - NOTIFICACIÓN",
+    "coverUrl": "",
+    "zipUrl": "",
+    "zipPassword": "",
+    "savedataUrl": "",
+    "texturesUrl": "",
+    "texturesPassword": "",
+    "folderName": "Juego2",
+    "description": "Notificación 2",
     "size": "0 MB",
     "version": "1.0.0",
     "type": "folder"
