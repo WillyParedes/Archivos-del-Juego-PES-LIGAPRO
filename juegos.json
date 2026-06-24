@@ -29,34 +29,4 @@
     "version": "1.1.0",
     "type": "iso"
   },
-  {
-    "id": "test_notification",
-    "title": "Prueba de notificación",
-    "coverUrl": "https://raw.githubusercontent.com/WillyParedes/Archivos-del-Juego-PES-LIGAPRO/main/pesligapro_cover.png",
-    "zipUrl": "https://github.com/WillyParedes/Archivos-del-Juego-PES-LIGAPRO/releases/download/v1.0/Juego.zip",
-    "zipPassword": "",
-    "savedataUrl": "",
-    "texturesUrl": "",
-    "texturesPassword": "",
-    "folderName": "TEST",
-    "description": "Juego de prueba",
-    "size": "1 MB",
-    "version": "1.0.0",
-    "type": "folder"
-  },
-  {
-    "id": "notificacion 2",
-    "title": "nitific 2",
-    "coverUrl": "https://raw.githubusercontent.com/WillyParedes/Archivos-del-Juego-PES-LIGAPRO/main/pes2014_cover.png",
-    "zipUrl": "https://github.com/WillyParedes/Archivos-del-Juego-PES-LIGAPRO/releases/download/v1.0-pes/Pro.Evolution.Soccer.2014.PSP.Europe.Es.Pt.1.iso",
-    "zipPassword": "",
-    "savedataUrl": "",
-    "texturesUrl": "",
-    "texturesPassword": "",
-    "folderName": "TEST",
-    "description": "Juego de fútbol original de KONAMI para PSP. Incluye licencias y jugadores reales.",
-    "size": "80 GB",
-    "version": "1.1.0",
-    "type": "iso"
-  }
 ]
