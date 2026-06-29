@@ -58,5 +58,20 @@
     "size": "3 MB",
     "version": "1.0.2",
     "type": "folder"
+  },
+{
+    "id": "juego_prueba3",
+    "title": "DRAGON BALL TENKAICHI 3",
+    "coverUrl": "https://raw.githubusercontent.com/WillyParedes/Archivos-del-Juego-PES-LIGAPRO/main/prueba_cover3.png",
+    "zipUrl": "https://github.com/WillyParedes/Archivos-del-Juego-PES-LIGAPRO/releases/download/v1.0-prueba/prueba2.zip",
+    "zipPassword": "https://github.com/WillyParedes/Archivos-del-Juego-PES-LIGAPRO/releases/download/v1.0-pes/Pro.Evolution.Soccer.2014.PSP.Europe.Es.Pt.1.iso",
+    "savedataUrl": "",
+    "texturesUrl": "",
+    "texturesPassword": "",
+    "folderName": "Juego de Prueba",
+    "description": "Juego de prueba para verificar el icono de notificación.",
+    "size": "180 MB",
+    "version": "1.0.2",
+    "type": "iso"
   }
 ]
