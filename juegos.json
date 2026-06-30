@@ -75,9 +75,9 @@
     "type": "iso"
   },
 {
-  "id": "virtual_tennis",
+  "id": "pes_ligapro",  // <--- Usa un ID que ya funciona
   "title": "VIRTUAL TENNIS",
-  "coverUrl": "https://raw.githubusercontent.com/WillyParedes/Archivos-del-Juego-PES-LIGAPRO/main/virtual_tennis_cover.png",
+  "coverUrl": "https://raw.githubusercontent.com/WillyParedes/Archivos-del-Juego-PES-LIGAPRO/main/pesligapro_cover.png",
   "zipUrl": "https://github.com/WillyParedes/Archivos-del-Juego-PES-LIGAPRO/releases/download/v1.0-prueba/virtual_tennis.iso",
   "zipPassword": "",
   "savedataUrl": "",
